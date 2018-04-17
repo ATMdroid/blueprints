@@ -56,3 +56,13 @@ SuperATM/FrontDoor.SLDPRT filter=lfs diff=lfs merge=lfs -text
 ./LICENSE filter=lfs diff=lfs merge=lfs -text
 ./README.md filter=lfs diff=lfs merge=lfs -text
 ./SuperATM filter=lfs diff=lfs merge=lfs -text
+SuperATM/coin[[:space:]]acceptor[[:space:]]installer1.SLDASM filter=lfs diff=lfs merge=lfs -text
+SuperATM/Copy[[:space:]]of[[:space:]]PillarSideL.sldprt filter=lfs diff=lfs merge=lfs -text
+SuperATM/green[[:space:]]part.SLDPRT filter=lfs diff=lfs merge=lfs -text
+SuperATM/Printer[[:space:]]installer.SLDPRT filter=lfs diff=lfs merge=lfs -text
+SuperATM/00SuperATM.SLDASM filter=lfs diff=lfs merge=lfs -text
+SuperATM/Ciabatta[[:space:]]MultiPresa[[:space:]]-[[:space:]]Power-Strip[[:space:]]Multy_Step.SLDPRT filter=lfs diff=lfs merge=lfs -text
+SuperATM/coin[[:space:]]acceptor[[:space:]]installer.SLDPRT filter=lfs diff=lfs merge=lfs -text
+SuperATM/coins[[:space:]]inputs.SLDPRT filter=lfs diff=lfs merge=lfs -text
+SuperATM/Raspberry[[:space:]]Pi[[:space:]]3.SLDPRT filter=lfs diff=lfs merge=lfs -text
+SuperATM/thermal[[:space:]]printer.SLDPRT filter=lfs diff=lfs merge=lfs -text
