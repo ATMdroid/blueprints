@@ -66,3 +66,4 @@ SuperATM/coin[[:space:]]acceptor[[:space:]]installer.SLDPRT filter=lfs diff=lfs 
 SuperATM/coins[[:space:]]inputs.SLDPRT filter=lfs diff=lfs merge=lfs -text
 SuperATM/Raspberry[[:space:]]Pi[[:space:]]3.SLDPRT filter=lfs diff=lfs merge=lfs -text
 SuperATM/thermal[[:space:]]printer.SLDPRT filter=lfs diff=lfs merge=lfs -text
+SuperATM/00SuperATM.IGS filter=lfs diff=lfs merge=lfs -text
