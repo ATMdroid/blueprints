@@ -1,0 +1,19 @@
+This is the complete modeling design for the Super ATM project I designed at Ofaly international. It's designed using SolidWorks 2016.
+
+It includes the following devices:
+● Thermal Printer
+● Coin Acceptor
+● Banknote Acceptor
+● Card Reader
+● Encrypted Keypad
+● 32” Screen
+● 32” Touch Panel
+● Raspberry Pi Camera
+● Raspberry Pi 3
+● Power Supply
+● UPS
+● Banknote Dispenser
+
+*Some of the model files I used were from GrabCAD.
+
+Source Files available at: https://grabcad.com/library/super-atm-ofaly-1
